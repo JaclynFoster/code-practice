@@ -27,6 +27,5 @@ const decoder = code => {
     }
     return solution
 }
-
 console.log(decoder('2bna0p1mp2osl0e'))
 
